@@ -1,9 +1,7 @@
-password_policy_exposed
+password_policy_pwned
 ======================
 
-This is a Drupal 8 module that adds a exposed plugin to the D8 Password Policy module. Exposed is configured
-as a constraint within a password policy.
-
+This is a Drupal 8 module that adds a exposed plugin to the D8 Password Policy module.
 ## Providers
 ### Have I Been Pwned
 The plugin uses the [Have I Been Pwned](https://haveibeenpwned.com/) Passwords [API](https://haveibeenpwned.com/API/v2#SearchingPwnedPasswordsByRange).
